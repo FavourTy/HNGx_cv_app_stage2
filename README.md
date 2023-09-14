@@ -18,7 +18,7 @@ To run this project on your local machine, you will need to have flutter install
 
 Once flutter is set up, follow these steps:
 * Clone the repository: git clone
-
+ https://github.com/FavourTy/HNGx_cv_app_stage2.git
 * Navigate to the project directory
 * Install the project dependencies: run flutter pub get.
 * Run the app: Flutter run.
