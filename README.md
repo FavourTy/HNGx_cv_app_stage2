@@ -23,7 +23,7 @@ Once flutter is set up, follow these steps:
 * Install the project dependencies: run flutter pub get.
 * Run the app: Flutter run.
 
-## Asaumptions
+## Assumptions
 * The project assumes that you have flutter and its dependencies installed in your dependencies installed on your development machine.
 
 ## Lincense
